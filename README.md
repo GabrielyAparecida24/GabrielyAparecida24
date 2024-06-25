@@ -6,9 +6,9 @@ Meu nome é Gabriely Aparecida
 - Estou no 2º ano do ensino médio, na escola professor Angelo Martino.
 - utilizo este espaço para armazenar meus projetos realizados em aula.
 
-## contato:
+## contato: 📧
 
-- 📧00001136393420SP@aluno.educacao.sp.gov.br
+- 00001136393420SP@aluno.educacao.sp.gov.br
 
 ![](https://media1.tenor.com/m/wfIBwLubZQQAAAAC/hello-wave.gif) 
 
