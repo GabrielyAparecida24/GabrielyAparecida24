@@ -3,7 +3,7 @@
 Meu nome é Gabriely Aparecida
 
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Estou no 2º ano do ensino médio, na escola professor Angelo Martino
+- Estou no 2º ano do ensino médio, na escola professor Angelo Martino.
 - utilizo este espaço para armazenar meus projetos realizados em aula.
 
 ## contato:
